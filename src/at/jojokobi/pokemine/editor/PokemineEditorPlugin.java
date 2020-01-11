@@ -1,6 +1,5 @@
 package at.jojokobi.pokemine.editor;
 
-import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -9,7 +8,6 @@ import org.bukkit.Bukkit;
 import org.bukkit.inventory.ItemStack;
 
 import at.jojokobi.beaneditor.plugins.ObjectEditorPlugin;
-import at.jojokobi.beaneditor.serialization.EmptySerializerData;
 import at.jojokobi.beaneditor.serialization.ObjectSerializer;
 import at.jojokobi.mcutil.JojokobiUtilPlugin;
 import at.jojokobi.pokemine.PokeminePlugin;
